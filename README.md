@@ -5,7 +5,9 @@ A sample of pushing message to iOS devices use PHP codes.
 
 ## configuration steps
 * **config APNs certificate and export the push certicate as p12 format.**
-* **convert the p12 certificate to pem format, and put the pem file in the some directory path with the AppPushNotification.php file**:  
+* **convert the p12 certificate to pem format, and put the pem file in the some directory path with the AppPushNotification.php file**: 
+
+ 
   open your terminal and type the commnd like this  
   
   ```
