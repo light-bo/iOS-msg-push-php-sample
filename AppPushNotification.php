@@ -6,7 +6,7 @@ $deviceToken = 'c40ec3dc92d2abe9f4e6caf540c24cf9cbe0a38b7aa80d25b5f2b5fc4b80bbc7
 $passphrase = '123456';
 
 // Put your alert message here:
-$message = 'iCO notification';
+$message = 'My notification';
 
 ////////////////////////////////////////////////////////////////////////////////
 
